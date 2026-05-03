@@ -1,4 +1,10 @@
-//upper right triangle
+/*
+1
+01
+101
+0101
+10101
+*/
 #include<stdio.h>
 void main()
 {
